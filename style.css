@@ -1,0 +1,68 @@
+/* Umum */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #ffe0ec, #fce4ec);
+  color: #4a4a4a;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header {
+  background-color: #f48fb1;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+  border-bottom: 5px solid #f06292;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+header p {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* Konten */
+section {
+  background: #fff0f5;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+  font-size: 24px;
+  color: #ec407a;
+  margin-bottom: 20px;
+  border-bottom: 2px dashed #f8bbd0;
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  font-size: 18px;
+  padding: 10px 0;
+  border-bottom: 1px dotted #f48fb1;
+}
+
+/* Footer */
+footer {
+  background-color: #f8bbd0;
+  color: #6a1b9a;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+  font-size: 14px;
+  font-weight: bold;
+}
